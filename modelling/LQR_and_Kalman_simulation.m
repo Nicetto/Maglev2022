@@ -1,3 +1,7 @@
+%{
+    Author: Andrea Nicetto
+    Project: Maglev2022 - https://github.com/Nicetto/Maglev2022
+%}
 clc;clear;
 addpath('../maglevFunctions');
 load('params.mat');
